@@ -1,0 +1,29 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "motor",
+					"strict" : false
+				},
+				{
+					"name" : "sound",
+					"strict" : false
+				},
+				{
+					"name" : "switch",
+					"strict" : false
+				},
+				{
+					"name" : "sensorObstacle",
+					"strict" : false
+				},
+				{
+					"name" : "sensorFall",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+|stick
+sensorFall => sound.IN0
+sensorObstacle => motor.IN0
+switch => motor.IN1
+switch => sound.IN1
+motor <= motor.DB_MAX_OUTPUT_PORT_TYPE
+sound <= sound.DB_MAX_OUTPUT_PORT_TYPE
+
+
